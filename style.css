@@ -36,7 +36,7 @@
  .footer {
 
           background-color: #24262b;
-          padding: 70px 0;
+          padding: 5px 0;
  }
 .footer-col {
        width: 25% ;
@@ -75,7 +75,7 @@
        text-transform: capitalize;
        color: #ffffff;
        text-decoration: none;
-       font-weight: 300;
+       font-weight: 500;
        color: #bbbbbb;
        display: block;
        transition: all 0.3 ease;
@@ -123,9 +123,9 @@
  }
   
  nav {
-      width: 80%;
-      min-width: 600px;
-      height: 20vh;
+      width: 10%;
+      min-width: 136px;
+      height: 15vh;
       display: flex;
       justify-content: space-around;
       align-items: center;
@@ -135,7 +135,7 @@
  nav a {
           position: relative;
           text-decoration: none;
-          font-size: 30px;
+          font-size: 20px;
           font-family: sans-serif;
           text-transform: capitalize;
           color: #909090;
